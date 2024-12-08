@@ -1,0 +1,38 @@
+ body{
+	background-color: black;
+	color: cyan;
+}
+
+.man h1 {
+    text-align: center; 
+    margin-top: 50px;
+    font-size: 3rem;
+}
+
+.man h1 a {
+    text-decoration: none; 
+    color: cyan; 
+}
+
+p {
+    max-width: 800px; 
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); 
+    border-radius: 10px;
+}
+
+.goes {
+    width: 100%; 
+    height: 500px; 
+    background-image: url("../img/dried1.jpg ");  
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    margin: 20px auto;
+    border-radius: 10px;
+
+}
+
+}
+ 

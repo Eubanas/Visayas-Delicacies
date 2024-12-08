@@ -1,0 +1,48 @@
+ body{
+	background-color: black;
+	color: cyan;
+}
+
+.hum h1 {
+    text-align: center; 
+    margin-top: 50px;
+    font-size: 3rem;
+}
+
+.hum h1 a {
+    text-decoration: none; 
+    color: cyan; 
+}
+
+p {
+    max-width: 800px; 
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); 
+    border-radius: 10px;
+}
+
+.ba {
+    width: 100%; 
+    height: 500px; 
+    background-image: url("../img/humba1.jpg ");  
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+}
+a{
+	border: 1px solid;
+	border-color: blue;
+	color: yellow;
+	background-color: blue;
+	text-decoration: none;
+	transition: 2s;
+
+}
+a:hover{
+	color: black;
+}

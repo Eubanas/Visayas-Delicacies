@@ -1,0 +1,21 @@
+body{
+	Background-color: black;
+	color: yellow
+}
+h1{
+	border: 1px solid;
+	border-color: blue;
+	background-color: blue;
+}
+a{
+	border: 1px solid;
+	border-color: blue;
+	color: yellow;
+	background-color: blue;
+	text-decoration: none;
+	transition: 2s;
+
+}
+a:hover{
+	color: black;
+}
